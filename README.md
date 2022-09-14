@@ -1,15 +1,20 @@
-# Usbong FLASH
+# Usbong SPORT
 set of reusable computer instructions that execute via the <b>Web Browser</b> 
 
+
+## OBJECTIVE: LEARN: SPORT'S CORE IDEA
+--> EXECUTE: in ACTUAL, where: requires PHYSICAL TRAINING
+
 ## Current Version (PUBLIC)
-http://store.usbong.ph/flashStage (work-in-progress)
+work-in-progress
 
 ## Additional Notes
 1) Javascript+ as ActionScript 2.0
 2) PHP + CodeIgniter (version 3)
 
-## Reference
+## References
 1) [USBONG 囲碁](https://github.com/usbong/IGO)
+2) [Usbong FLASH](https://github.com/usbong/FLASH)
 
 ## Open Source Software License
 Copyright 2022 SYSON, MICHAEL B.
